@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1669216567 source:c:\users\ioana\codeblocks\9b\wordle 2\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<map>
+	<vector>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<tchar.h>
+
+1669326514 source:c:\users\ioana\codeblocks\wordle\server\main.cpp
+	<iostream>
+	<unistd.h>
+	<fstream>
+	<cstring>
+	<map>
+	<vector>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<tchar.h>
+	<cstdlib>
+
+1669234743 source:c:\data\personal\wordle\server\main.cpp
+	<iostream>
+	<unistd.h>
+	<fstream>
+	<cstring>
+	<map>
+	<vector>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<tchar.h>
+	<cstdlib>
+
